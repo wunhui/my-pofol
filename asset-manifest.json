@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-pofol/static/css/main.e6c13ad2.css",
+    "main.js": "/my-pofol/static/js/main.c144b5e4.js",
+    "static/js/453.f82da689.chunk.js": "/my-pofol/static/js/453.f82da689.chunk.js",
+    "index.html": "/my-pofol/index.html",
+    "main.e6c13ad2.css.map": "/my-pofol/static/css/main.e6c13ad2.css.map",
+    "main.c144b5e4.js.map": "/my-pofol/static/js/main.c144b5e4.js.map",
+    "453.f82da689.chunk.js.map": "/my-pofol/static/js/453.f82da689.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c144b5e4.js"
+  ]
+}
