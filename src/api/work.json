@@ -1,0 +1,188 @@
+[
+    {
+        "id": 0,
+        "img": "reblog.png",
+        "title": "Re-blog",
+        "desc": "Front-end 기점으로 개발된 공동 프로젝트입니다.",
+        "link": "https://mihye0924.github.io/re-blog/",
+        "tags" : [
+            {
+                "id": 0,
+                "title" : "React"
+            },
+            {
+                "id": 1,
+                "title" : "Sass"
+            },
+            {
+                "id": 2,
+                "title" : "Javascript"
+            },
+            {
+                "id": 3,
+                "title" : "PC"
+            },
+            {
+                "id": 4,
+                "title" : "프로필"
+            },
+            {
+                "id": 5,
+                "title" : "로그인"
+            },
+            {
+                "id": 6,
+                "title" : "아이디"
+            },
+            {
+                "id": 7,
+                "title" : "패스워드"
+            },
+            {
+                "id": 8,
+                "title" : "1004"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "img": "wantu.png",
+        "title": "원하냥",
+        "desc": "Vue3를 이용하여 크로스 브라우징까지 고려한 자사 프로젝트입니다.",
+        "link": "https://wantyou.freeive.com/#/",
+        "tags" : [
+            {
+                "id": 0,
+                "title" : "Vue3"
+            },
+            {
+                "id": 1,
+                "title" : "Sass"
+            },
+            {
+                "id": 2,
+                "title" : "Javascript"
+            },
+            {
+                "id": 3,
+                "title" : "mobile"
+            },
+            {
+                "id": 2,
+                "title" : "Intro"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "lina.png",
+        "title": "라이나생명",
+        "desc": "웹접근성과 표준에 맞춘 대규모 프로젝트입니다.",
+        "link": "https://www.lina.co.kr/",
+        "tags" : [
+            {
+                "id": 0,
+                "title" : "Vue3"
+            },
+            {
+                "id": 1,
+                "title" : "Sass"
+            },
+            {
+                "id": 2,
+                "title" : "Javascript"
+            },
+            {
+                "id": 3,
+                "title" : "적응형"
+            },
+            {
+                "id": 4,
+                "title" : "공통컴포넌트"
+            },
+            {
+                "id": 4,
+                "title" : "보험상품"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "freeiveService.png",
+        "title": "프리아이브",
+        "desc": "Vue3를 이용한 자사 홈페이지입니다.",
+        "link": "https://www.freeive.com/service",
+        "tags" : [
+            {
+                "id": 0,
+                "title" : "Vue3"
+            },
+            {
+                "id": 1,
+                "title" : "Sass"
+            },
+            {
+                "id": 2,
+                "title" : "Javascript"
+            },
+            {
+                "id": 3,
+                "title" : "반응형"
+            },
+            {
+                "id": 4,
+                "title" : "Service"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "elyfi.png",
+        "title": "엘디파이",
+        "desc": "엘디파이 클론코딩입니다.",
+        "link": "https://wunhui.github.io/elyfi_publising/",
+        "tags" : [
+            {
+                "id": 0,
+                "title" : "React"
+            },
+            {
+                "id": 1,
+                "title" : "Sass"
+            },
+            {
+                "id": 2,
+                "title" : "Javascript"
+            },
+            {
+                "id": 3,
+                "title" : "반응형"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "goldendisc.png",
+        "title": "골든디스크어워즈",
+        "desc": "직접 디자인 및 퍼블리싱한 개인 프로젝트입니다.",
+        "link": "https://github.com/wunhui/GoldenDiscAwardRe",
+        "tags" : [
+            {
+                "id": 0,
+                "title" : "React"
+            },
+            {
+                "id": 1,
+                "title" : "Sass"
+            },
+            {
+                "id": 2,
+                "title" : "Javascript"
+            },
+            {
+                "id": 3,
+                "title" : "반응형"
+            }
+        ]
+    }
+]
